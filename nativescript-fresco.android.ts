@@ -66,6 +66,7 @@ export class ImagePipeline {
         this._android = value;
     }
 }
+
 //extends com.facebook.imagepipeline.animated.base.AnimatedDrawable 
 export class AnimatedImage {
     start(): void {
