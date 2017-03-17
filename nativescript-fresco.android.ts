@@ -66,18 +66,21 @@ export class ImagePipeline {
         this._android = value;
     }
 }
-
-export class AnimatedImage extends com.facebook.imagepipeline.animated.base.AnimatedDrawable implements commonModule.IAnimatedImage {
+//extends com.facebook.imagepipeline.animated.base.AnimatedDrawable 
+export class AnimatedImage {
     start(): void {
-        super.start();
+        console.info('start feature disabled');
+        // super.start();
     }
 
     stop(): void {
-        super.stop();
+        console.info('stop feature disabled');
+        // super.stop();
     }
 
-    isRunning(): boolean {
-        return super.isRunning();
+    isRunning(): void {
+        console.info('isRunning feature disabled');
+        // return super.isRunning();
     }
 }
 
