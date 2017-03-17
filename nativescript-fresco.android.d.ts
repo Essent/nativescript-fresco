@@ -13,10 +13,10 @@ export declare class ImagePipeline {
     clearDiskCaches(): void;
     android: any;
 }
-export declare class AnimatedImage extends com.facebook.imagepipeline.animated.base.AnimatedDrawable implements commonModule.IAnimatedImage {
+export declare class AnimatedImage {
     start(): void;
     stop(): void;
-    isRunning(): boolean;
+    isRunning(): void;
 }
 export declare class FrescoError implements commonModule.IError {
     private _stringValue;
