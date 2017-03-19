@@ -5,10 +5,10 @@
   "main": "nativescript-fresco",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NativeScript/nativescript-fresco"
+    "url": "https://github.com/code0wl/nativescript-fresco"
   },
   "bugs": {
-    "url": "https://github.com/NativeScript/nativescript-fresco/issues"
+    "url": "https://github.com/code0wl/nativescript-fresco/issues"
   },
   "files": [
     "*.js*",
