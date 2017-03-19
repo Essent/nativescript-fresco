@@ -1,5 +1,5 @@
 {
-  "name": "@code0wl/nativescript-fresco",
+  "name": "@oscarlodriguez/nativescript-fresco",
   "version": "1.0.17",
   "description": "This is a NativeScript plugin wrapping the popular Fresco library for managing images on Android with a compatibility fix for fresco 0.14.1.",
   "main": "nativescript-fresco",
